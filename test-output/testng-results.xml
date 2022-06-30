@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-21T10:58:51Z" name="Default suite" finished-at="2021-08-21T10:58:53Z" duration-ms="2433">
+    <groups>
+    </groups>
+    <test started-at="2021-08-21T10:58:51Z" name="Default test" finished-at="2021-08-21T10:58:53Z" duration-ms="2433">
+      <class name="com.graphql.test.GraphqlQueryTest">
+        <test-method signature="TestMutationWithVariable(int, java.lang.String)[pri:0, instance:com.graphql.test.GraphqlQueryTest@5170bcf4]" started-at="2021-08-21T10:58:51Z" name="TestMutationWithVariable" data-provider="getMutationData" finished-at="2021-08-21T10:58:53Z" duration-ms="2412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CherryRed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMutationWithVariable -->
+      </class> <!-- com.graphql.test.GraphqlQueryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
