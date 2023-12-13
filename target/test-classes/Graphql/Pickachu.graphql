@@ -1,3 +1,0 @@
-{
-  "{\n  products(id: \"7\") {\n    name\n    price\n    category {\n      name\n    }\n    vendor {\n      name\n      id\n    }\n  }\n}": null
-}
